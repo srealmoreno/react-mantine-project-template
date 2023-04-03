@@ -1,6 +1,6 @@
 {
-  "name": "react-project-template",
-  "version": "1.1.0",
+  "name": "react-mantine-project-template",
+  "version": "1.0.0",
   "description": "React Project Template with TypeScript, Vite, Eslint, Security Analyzer, Github Actions, Dependabot and all community standards",
   "main": "app.tsx",
   "directories": {
