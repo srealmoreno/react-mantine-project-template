@@ -1,5 +1,5 @@
 import { useCounter } from '@hooks/useCounter'
-import { Button, Group, Stack, Text, Title } from '@mantine/core'
+import { Button, Group, Stack, Title } from '@mantine/core'
 import { IconPlus, IconMinus, IconForbid2 } from '@tabler/icons-react'
 
 export function Home (): JSX.Element {
