@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import ReactDOM from 'react-dom/client'
-import { App } from './App'
+import { MantineApp } from './Mantine'
 
 const rootElement = document.querySelector<HTMLElement>('#root')
 
@@ -10,6 +10,6 @@ if (rootElement == null) {
 
 ReactDOM.createRoot(rootElement).render(
   <StrictMode>
-    <App />
+    <MantineApp />
   </StrictMode>
 )

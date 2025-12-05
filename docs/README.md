@@ -2,7 +2,7 @@
 [wiki]:        https://github.com/{{username}}/{{repo}}/wiki
 [contributors]:https://github.com/{{username}}/{{repo}}/graphs/contributors
 
-# Project Title [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0996f1ff10d7493e80f422c557426b21)](https://app.codacy.com/gh/srealmoreno/react-project-template/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+# Project Title [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0996f1ff10d7493e80f422c557426b21)](https://app.codacy.com/gh/srealmoreno/react-mantine-project-template/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 One Paragraph of project description goes here
 

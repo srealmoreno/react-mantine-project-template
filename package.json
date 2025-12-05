@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srealmoreno/react-project-template.git"
+    "url": "git+https://github.com/srealmoreno/react-mantine-project-template.git"
   },
   "keywords": [
     "react",
@@ -32,10 +32,16 @@
   "author": "Salvador Real <salvador@srealmoreno.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/srealmoreno/react-project-template/issues/new/choose"
+    "url": "https://github.com/srealmoreno/react-mantine-project-template/issues/new/choose"
   },
-  "homepage": "https://github.com/srealmoreno/react-project-template#readme",
+  "homepage": "https://github.com/srealmoreno/react-mantine-project-template#readme",
   "dependencies": {
+    "@mantine/core": "6.0.7",
+    "@mantine/ds": "6.0.7",
+    "@mantine/form": "6.0.7",
+    "@mantine/hooks": "6.0.7",
+    "@mantine/modals": "6.0.7",
+    "@mantine/notifications": "6.0.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "wouter": "2.10.0"
